@@ -1,0 +1,13 @@
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.exe
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.deps.json
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.json
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.runtimeconfig.dev.json
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.dll
+C:\Users\Bella\source\repos\game\game\game\bin\Debug\netcoreapp3.1\game.pdb
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.csprojAssemblyReference.cache
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfoInputs.cache
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.AssemblyInfo.cs
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.csproj.CoreCompileInputs.cache
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.dll
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.pdb
+C:\Users\Bella\source\repos\game\game\game\obj\Debug\netcoreapp3.1\game.genruntimeconfig.cache
